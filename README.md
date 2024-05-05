@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Victor Emmanuel.<br><br>Desenvolvedor Web formado na Trybe. Tenho conhecimento full stack, apesar de back-end ser meu minha área de mais interesse.<br><br>Sempre querendo e disposto a aprender mais e expandir meus conhecimentos.</p>
+<p align="left">Meu nome é Victor Emmanuel.<br><br>Desenvolvedor Web formado na Trybe. Tenho conhecimento full stack, apesar de back-end ser meu minha área de maior interesse.<br><br>Sempre querendo e disposto a aprender mais e expandir meus conhecimentos.</p>
 
 ###
 
@@ -70,6 +70,6 @@
 
 ###
 
-<p align="left">Sou um cara simples, eu gosto de passar o tempo vendo videos e jogando</p>
+<p align="left"></p>
 
 ###
